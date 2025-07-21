@@ -6,7 +6,7 @@ A robust full-stack **MERN** application that empowers users to manage their fin
 
 ## 🌐 Live Demo
 
-* 🔗 **Frontend (Vercel):** [Visit Live App]([https://your-vercel-app.vercel.app](https://vercel-frontend-wine-five.vercel.app/login))
+* 🔗 **Frontend (Vercel):** [Visit Live App](https://vercel-frontend-wine-five.vercel.app/login))
 * 🟣 **Backend (Render):** [View API Server](https://expense-tracker-54iz.onrender.com)
 
 ---
