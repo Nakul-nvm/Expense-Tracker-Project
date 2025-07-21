@@ -1,4 +1,4 @@
-# 💼 Expense Tracker Project
+<img width="799" height="168" alt="image" src="https://github.com/user-attachments/assets/d7821115-5c76-4af2-9829-e2945d0f2f93" /># 💼 Expense Tracker Project
 
 A robust full-stack **MERN** application that empowers users to manage their finances with ease. This project provides a user-friendly interface for tracking income and expenses, viewing visual analytics, exporting data to Excel, and maintaining a secure and responsive platform.
 
@@ -6,7 +6,7 @@ A robust full-stack **MERN** application that empowers users to manage their fin
 
 ## 🌐 Live Demo
 
-* 🔗 **Frontend (Vercel):** [Visit Live App](https://your-vercel-app.vercel.app)
+* 🔗 **Frontend (Vercel):** [Visit Live App]([https://your-vercel-app.vercel.app](https://vercel-frontend-wine-five.vercel.app/login))
 * 🟣 **Backend (Render):** [View API Server](https://expense-tracker-54iz.onrender.com)
 
 ---
